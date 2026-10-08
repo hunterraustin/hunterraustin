@@ -1,20 +1,16 @@
-# Hi, I'm Hunter
+# Hunter Austin
 
-An infrastructure and security engineer moving into vulnerability research and
-exploit development. I build and harden enterprise systems professionally, and I
-am building offensive-security skills (reverse engineering, binary exploitation,
-CTF) on my own time.
+Systems and network administrator in Jacksonville, FL. I run the infrastructure for a 10-site healthcare practice: VMware vSphere on Dell VxRail, Windows Server and Active Directory, Cisco switching, Sophos firewalls, and Microsoft 365. CompTIA Security+ and Cisco CCNA.
 
-Two tracks live here:
+Outside work I build labs to go deeper on identity, network access control, and hardening, and I'm working toward security research over the long term.
 
-- [Homelab and Infrastructure Projects](https://github.com/hunterraustin/homelab)
-  Networking, systems, and security builds on gear I own.
-- [Vulnerability Research Writeups](https://github.com/hunterraustin/writeups)
-  CTF, reverse engineering, and exploitation, added as I work through the foundation.
+## Projects
 
-Details:
-- Current focus: [binary exploitation via pwn.college, CTF pwn and rev]
-- Background: hybrid Active Directory, virtualization, networking, automation,
-  HIPAA-aligned security
-- Long-term target: vulnerability research / exploit development
-- Connect: [LinkedIn](https://www.linkedin.com/in/hunterraustin/)
+- [Identity lab: Active Directory, RADIUS/802.1X, and Linux](https://github.com/hunterraustin/ad-radius-linux-identity-lab): Windows Server 2022 domain, NPS RADIUS for PEAP Wi-Fi authentication on a Cisco access point, and a Rocky Linux 9 host joined to AD with realmd and SSSD.
+- [Hands-free Windows deployment with MDT and WDS](https://github.com/hunterraustin/Enterprise-Automated-Desktop-Deployment): PXE boot to a finished, domain-joined Windows install, plus the DHCP and PXE problems I had to solve along the way.
+- [IT asset database](https://github.com/hunterraustin/IT-asset-management-database): MariaDB on Rocky Linux 9 with a normalized schema and low-stock and location audit queries.
+- [Homelab](https://github.com/hunterraustin/homelab): index of my home network and server builds.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/hunterraustin/)
